@@ -1,1 +1,1 @@
-# python_dz1_Maslennikov_Ilya
+# python_dz_Maslennikov_Ilya
